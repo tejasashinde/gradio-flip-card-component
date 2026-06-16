@@ -1,1 +1,2 @@
 gradio>=6.0
+huggingface_hub
